@@ -2,7 +2,7 @@ Metadata-Version: 2.4
 Name: fs-agent
 Version: 0.1.0
 Summary: Filesystem AI agent with OOP design and Rich CLI
-Author: You
+Author: EhsanShahbazii
 Requires-Python: >=3.10
 Description-Content-Type: text/markdown
 Requires-Dist: python-dotenv
@@ -12,7 +12,7 @@ Requires-Dist: logfire
 Requires-Dist: rich
 Requires-Dist: asteval
 
-# FS Agent (OOP)
+# FS Agent
 
 A small AI-powered filesystem agent with a Rich TUI and pluggable models.
 Supports a safe sandbox directory and a set of file tools exposed to a
