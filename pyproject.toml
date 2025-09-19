@@ -16,7 +16,7 @@ dependencies = [
   "rich",
   "asteval",
 ]
-authors = [{ name = "You" }]
+authors = [{ name = "EhsanShahbzii" }]
 
 [tool.setuptools]
 package-dir = {"" = "src"}
