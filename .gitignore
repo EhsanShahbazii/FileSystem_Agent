@@ -1,0 +1,14 @@
+# venv / python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# editor / os
+.DS_Store
+.idea/
+.vscode/
+
+# env / local
+.env
+test_folder/

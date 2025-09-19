@@ -1,0 +1,6 @@
+python-dotenv
+pydantic
+pydantic_ai
+logfire
+arithmetic_eval
+rich
