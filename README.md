@@ -1,4 +1,4 @@
-# FS Agent
+# File System Agent
 
 ![preview](https://ehsan.storage.iran.liara.space/github/fs_agent/1.png)
 
