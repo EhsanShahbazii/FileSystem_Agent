@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fs-agent"
+version = "0.1.0"
+description = "Filesystem AI agent with OOP design and Rich CLI"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "python-dotenv",
+  "pydantic",
+  "pydantic_ai",
+  "logfire",
+  "rich",
+  "asteval",
+]
+authors = [{ name = "You" }]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["fs_agent*"]
