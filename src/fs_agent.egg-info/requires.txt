@@ -1,6 +1,0 @@
-python-dotenv
-pydantic
-pydantic_ai
-logfire
-rich
-asteval
