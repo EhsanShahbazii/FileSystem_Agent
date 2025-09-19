@@ -1,7 +1,5 @@
 # FS Agent (OOP)
 
-![preview](https://ehsan.storage.iran.liara.space/github/fs_agent/1.gif)
-
 FS Agent is an **AI-powered filesystem agent** with a Rich terminal UI, safe sandboxed file operations, and pluggable language models.  
 It uses [pydantic-ai](https://github.com/pydantic/pydantic-ai) to expose a set of filesystem and calculator tools to an agent that can follow natural-language instructions.
 
